@@ -1,0 +1,19 @@
+{
+  "name": "discordjs-template",
+  "version": "1.0.0",
+  "description": "Starter template for discordjs bot wtih command and event handler",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.67",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
